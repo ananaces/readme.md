@@ -10,7 +10,7 @@ The **Farm Database** is a web-based application designed to manage and monitor 
   - Delete outdated or incorrect entries.
 - **Dashboard**: 
   - Overview of key farm statistics and insights.
-  - Accessible interface to navigate through different sections of the application.
+  - Accessible interface to navigate through the application.
 - **Responsive Design**: Works seamlessly on desktops.
 
 ## Technology Stack

@@ -30,4 +30,4 @@ The **Farm Database** is a web-based application designed to manage and monitor 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/farm-database.git
+   git clone https://github.com/ananaces/readme.md.git
